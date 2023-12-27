@@ -1,4 +1,4 @@
-# 🇮🇩Auto-FT-Tunnel🇮🇩
+# 🇮🇩YOU ARE FREE🇮🇩
 
 # wajib Update Rep0 Sebelum install script
 
@@ -10,11 +10,11 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/fttunnel7/wiz4rd/MONSTER/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/suprastore/youarefree/MONSTER/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/fttunnel7/wiz4rd/MONSTER/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/suprastore/youarefree/MONSTER/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -42,7 +42,7 @@
 ```
 Auto - FT - Tunnel :
 
-<a href="https://t.me/AutoFTbot" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+<a href="https://t.me/supra_store31" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
 ``
